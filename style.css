@@ -749,3 +749,28 @@ header .navbar {
     }
     
 }
+
+@media only screen and (max-width: 400px) {
+    .team-section .section-content .slider-container .swipper {
+        margin: 0 0 10px;
+    }
+
+    .team-section .section-content .slider-container .swipper {
+        display: none;
+    }
+
+   .team-section .slider-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 0 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .team-section .team .work {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+ }

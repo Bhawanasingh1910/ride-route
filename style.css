@@ -728,6 +728,21 @@ header .navbar {
         display: none;
     }
 
+   .team-section .slider-container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 0 0 30px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .team-section .team .work {
+    font-size: 14px;
+    line-height: 20px;
+    max-width: 90%;
+    margin: 0 auto;
+  }
+
     .footer-section .section-content {
         flex-direction: column;
         grid-auto-flow: 20px;

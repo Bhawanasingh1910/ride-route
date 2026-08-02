@@ -40,4 +40,4 @@ This project is part of my learning journey. I wanted to create something that f
 
 -> Contact :-
 * Created by: Bhawana 
-* Portfolio: bhawanasingh1910.github.io/ride-route
+* Portfolio: [bhawanasingh1910.github.io/ride-route](https://bhawanasingh1910.github.io/ride-route/)

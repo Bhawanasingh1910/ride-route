@@ -1,4 +1,4 @@
-const API="http://localhost:3000/api";
+const API="https://ride-route.onrender.com/api";
 
 const menuOpenButton=document.querySelector("#menu-open-button");
 const menuCloseButton=document.querySelector("#menu-close-button");

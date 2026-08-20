@@ -1,0 +1,122 @@
+[
+  {
+    "id":1,
+    "name":"Renault KWID",
+    "type":"Car",
+    "price":"₹7.21 lakh",
+    "color":"Metallic Gold",
+    "mileage":"22-25 km/l",
+    "image":"images/bcar1.png",
+    "available":true
+  },
+  {
+    "id":2,
+    "name":"Mercedes-Benz",
+    "type":"Car",
+    "price":"₹45-65 lakh",
+    "color":"White",
+    "mileage":"12-16 km/l",
+    "image":"images/bcar2.png",
+    "available":true
+  },
+  {
+    "id":3,
+    "name":"Tata Tiago",
+    "type":"Car",
+    "price":"₹5.65-7.90 lakh",
+    "color":"Orange",
+    "mileage":"19-23 km/l",
+    "image":"images/bcar3.png",
+    "available":true
+  },
+  {
+    "id":4,
+    "name":"Mercedes-Benz A-Class",
+    "type":"Car",
+    "price":"₹42-48 lakh",
+    "color":"Blue",
+    "mileage":"17-20 km/l",
+    "image":"images/bcar4.png",
+    "available":true
+  },
+  {
+    "id":5,
+    "name":"Hyundai i20",
+    "type":"Car",
+    "price":"₹7.20-11.80 lakh",
+    "color":"Silver",
+    "mileage":"19-21 km/l",
+    "image":"images/bcar5.png",
+    "available":true
+  },
+  {
+    "id":6,
+    "name":"Ferrari 458 Italia",
+    "type":"Car",
+    "price":"₹4.00-4.50 crore",
+    "color":"Red",
+    "mileage":"5.5-7.5 km/l",
+    "image":"images/bcar6.png",
+    "available":true
+  },
+  {
+    "id":7,
+    "name":"Royal Enfield Interceptor 650",
+    "type":"Bike",
+    "price":"₹3.03-3.31 lakh",
+    "color":"Red & Black",
+    "mileage":"23-25 km/l",
+    "image":"images/bbike1.png",
+    "available":true
+  },
+  {
+    "id":8,
+    "name":"BMW S 1000 RR",
+    "type":"Bike",
+    "price":"₹20.50-24.00 lakh",
+    "color":"Blue, White & Black",
+    "mileage":"15-17 km/l",
+    "image":"images/bbike2.png",
+    "available":true
+  },
+  {
+    "id":9,
+    "name":"SCR Lancer",
+    "type":"Bike",
+    "price":"₹1.10-1.35 lakh",
+    "color":"Red & Black",
+    "mileage":"45-50 km/l",
+    "image":"images/bbike3.png",
+    "available":true
+  },
+  {
+    "id":10,
+    "name":"Hero Maxwell",
+    "type":"Bike",
+    "price":"₹95,000-1.10 lakh",
+    "color":"Black with Blue Accents",
+    "mileage":"50-55 km/l",
+    "image":"images/bbike4.png",
+    "available":true
+  },
+  {
+    "id":11,
+    "name":"Ather 450X",
+    "type":"Scooty",
+    "price":"₹1.40-1.60 lakh",
+    "color":"Blue & Black",
+    "mileage":"110-125 km/charge",
+    "image":"images/bscooty1.png",
+    "available":true
+  },
+  {
+    "id":12,
+    "name":"BRAVE Urban",
+    "type":"Scooty",
+    "price":"₹85,000-1.05 lakh",
+    "color":"Orange & Black",
+    "mileage":"45-50 km/l",
+    "image":"images/bscooty2.png",
+    "available":true
+  }
+]

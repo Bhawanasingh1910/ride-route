@@ -1,0 +1,14 @@
+{
+  "name":"ride-route",
+  "version":"1.0.0",
+  "description":"Ride Route digital vehicle showroom with vehicle inventory and test-drive booking APIs",
+  "main":"server.js",
+  "scripts":{
+    "start":"node server.js",
+    "dev":"node server.js"
+  },
+  "dependencies":{
+    "express":"^5.1.0",
+    "cors":"^2.8.5"
+  }
+}

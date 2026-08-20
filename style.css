@@ -774,3 +774,32 @@ header .navbar {
     margin: 0 auto;
   }
  }
+
+
+ .book-vehicle{
+    margin-top:15px;
+    padding:10px 18px;
+    border-radius:30px;
+    background:#00F5D4;
+    color:#000;
+    font-weight:600;
+    transition:0.3s;
+}
+
+.book-vehicle:hover{
+    transform:scale(1.05);
+    box-shadow:0 4px 15px #00F5D4;
+}
+
+.contact-form{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+.contact-form .form-input{
+    padding:12px;
+    border-radius:8px;
+    border:none;
+    outline:none;
+}
